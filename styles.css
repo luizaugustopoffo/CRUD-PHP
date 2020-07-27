@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+
+body {
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+table {
+    background-color: #EBC79E ; 
+}
+
+.ver:hover {
+    color: #FF0000;
+}
+
+.btn:hover {
+    background-color: #E47833;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #FF7F00;
+    color: #000000;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+fieldset {
+    background-color: #EBC79E ; 
+    width: 400px;
+    height: 480px;
+}
+
+.fieldVer {
+    width: 400px;
+    height: 300px;
+}
+
+.enviar {
+    width: 70px;
+    height: 25px;
+}
+
+.campoTexto {
+    width: 370px; 
+}
+
